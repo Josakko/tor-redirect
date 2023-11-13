@@ -1,0 +1,7 @@
+Package: tor-redirect
+Version: 6.10
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Josakko, josakko@protonmail.com
+Description: Program for redirecting all traffic through tor for anonymizing entire system 
