@@ -4,3 +4,4 @@ venv
 
 # files
 req.txt
+tor-redirect/usr/bin/tor-redirect
