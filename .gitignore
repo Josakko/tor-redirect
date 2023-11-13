@@ -1,0 +1,6 @@
+# dirs
+build
+venv
+
+# files
+req.txt
